@@ -1,0 +1,3 @@
+.disabled {
+  @utils-disabled #ccc #f00 #333;
+}
