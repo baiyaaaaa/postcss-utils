@@ -1,6 +1,6 @@
 {
   "name": "postcss-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "postcss-utils is a postcss plugin to help you create functional fragments quickly via at-rules",
   "main": "lib/index.js",
   "dependencies": {
